@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="Update">Update</string>
+    <string name="Save">Save</string>
+    <string name="add_note">Click to add Note ..</string>
+    <string name="delete">Delete</string>
+</resources>
